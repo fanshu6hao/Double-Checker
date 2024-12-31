@@ -1,0 +1,31 @@
+{"type": "location-GPE", "definition": "includes names of countries, cities, states, provinces, and other regions that have a political or geographical significance."}
+{"type": "location-other", "definition": "is a catch-all category within the location entity type that includes geographical locations which do not fit into the more specific subcategories listed."}
+{"type": "location-mountain", "definition": "refers to geographical entities that are elevated landforms characterized by steep slopes, rocky terrain, and often having peaks or summits."}
+{"type": "location-bodiesofwater", "definition": "refers to geographical entities that are large bodies of water, such as oceans, seas, rivers, lakes, and other water reservoirs."}
+{"type": "location-island", "definition": "refers to geographical entities that are landmasses surrounded by water on all sides."}
+{"type": "location-park", "definition": "refers to designated areas of land that are preserved or managed for recreational, conservation, or aesthetic purposes. "}
+{"type": "location-road/railway/highway/transit", "definition": "refers to infrastructure designed for transportation, including roads, railways, highways, and transit systems."}
+{"type": "organization-education", "definition": "refers to institutions or entities primarily focused on providing education and academic instruction."}
+{"type": "organization-government/governmentagency", "definition": "refers to entities that are part of or associated with governmental bodies and agencies."}
+{"type": "organization-company", "definition": "refers to entities that are businesses or commercial enterprises. This category includes names of companies, corporations, firms, and other types of business organizations."}
+{"type": "organization-politicalparty", "definition": "refers to entities that are organized groups of people with similar political aims and opinions."}
+{"type": "organization-other", "definition": "is a category within the organization entity type that includes organized groups or entities which do not fit into the more specific subcategories listed."}
+{"type": "organization-media/newspaper", "definition": "refers to entities involved in the production and dissemination of news and information to the public through various media channels."}
+{"type": "organization-religion", "definition": "refers to entities associated with religious beliefs, practices, and institutions."}
+{"type": "organization-showorganization", "definition": "refers to entities involved in the production, promotion, or organization of entertainment events and performances."}
+{"type": "organization-sportsleague", "definition": "refers to entities that are structured groups or associations governing a particular sport or a group of sports."}
+{"type": "organization-sportsteam", "definition": "refers to entities that are teams participating in competitive sports, usually within the structure of a sports league or association."}
+{"type": "other-medical", "definition": "refers to entities, concepts, or items related to the field of medicine that do not fit into more specific categories."}
+{"type": "person-athlete", "definition": "refers to individuals who engage in physical sports or other forms of competitive physical activities."}
+{"type": "event-sportsevent", "definition": "refers to organized competitive events or activities in which athletes or teams participate in sports."}
+{"type": "art-music", "definition": "refers to entities and works associated with the creation, performance, and recording of music."}
+{"type": "other-livingthing", "definition": "refers to entities that are living organisms but do not fit into more specific categories like humans, specific animals, or plants."}
+{"type": "building-hospital", "definition": "refers to structures specifically designed and equipped for the delivery of healthcare services."}
+{"type": "building-theater", "definition": "refers to structures specifically designed for the performance of live entertainment, such as plays, musicals, dance performances, concerts, and other stage productions."}
+{"type": "other-educationaldegree", "definition": "refers to academic qualifications or titles that do not belong to more specific categories within the educational domain."}
+{"type": "person-actor", "definition": "refers to individuals who professionally perform roles in plays, films, television shows, or other forms of entertainment media."}
+{"type": "product-car", "definition": "refers to automobiles or vehicles designed for transportation purposes."}
+{"type": "product-weapon", "definition": "refers to devices or instruments designed or used for inflicting harm, damage, or destruction."}
+{"type": "art-writtenart", "definition": "refers to artistic works that are expressed through the written word."}
+{"type": "event-election", "definition": "refers to the process of selecting individuals for specific roles or positions through a structured voting system."}
+{"type": "none", "definition": "refers an entity that does not belong to the above types, or is not an entity."}

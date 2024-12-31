@@ -1,0 +1,45 @@
+{"dataset": "GUM", "type": "abstract", "proxy_type": "abstract", "definition": "This category includes concepts, ideas, or entities that do not have a physical presence and cannot be detected by the senses."}
+{"dataset": "GUM", "type": "animal", "proxy_type": "animal", "definition": "This category includes names of living organisms that are members of the animal kingdom."}
+{"dataset": "GUM", "type": "event", "proxy_type": "event", "definition": "This category includes names of occurrences or happenings, especially those that are significant or noteworthy."}
+{"dataset": "GUM", "type": "object", "proxy_type": "object", "definition": "This category includes names of tangible, physical items that can be perceived by the senses."}
+{"dataset": "GUM", "type": "organization", "proxy_type": "organization", "definition": "This category includes names of entities that are structured groups of people with a specific purpose."}
+{"dataset": "GUM", "type": "person", "proxy_type": "person", "definition": "This category includes names of individual human beings, either real or fictional."}
+{"dataset": "GUM", "type": "place", "proxy_type": "place", "definition": "This category includes names of specific locations, which can be either natural or man-made."}
+{"dataset": "GUM", "type": "plant", "proxy_type": "plant", "definition": "This category includes names of living organisms that belong to the plant kingdom."}
+{"dataset": "GUM", "type": "quantity", "proxy_type": "quantity", "definition": "This category includes names and expressions that denote amounts or measures of something."}
+{"dataset": "GUM", "type": "substance", "proxy_type": "substance", "definition": "This category includes names of materials or matter that have distinct physical properties and occupy space."}
+{"dataset": "GUM", "type": "time", "proxy_type": "time", "definition": "This category includes names and expressions related to the measurement, passage, and units of time."}
+{"dataset": "CONLL2003", "type": "PER", "proxy_type": "person", "definition": "This category includes names of persons, such as individual people or groups of people with personal names."}
+{"dataset": "CONLL2003", "type": "LOC", "proxy_type": "location", "definition": "The location category represents names of geographical places or landmarks, such as cities, countries, rivers, or mountains."}
+{"dataset": "CONLL2003", "type": "ORG", "proxy_type": "organization", "definition": "The organization category consists of names of companies, institutions, or any other group or entity formed for a specific purpose."}
+{"dataset": "CONLL2003", "type": "MISC", "proxy_type": "miscellaneous", "definition": "The miscellaneous category encompasses entities that do not fall into the above three categories. This includes adjectives, like Italian, and events, like 1000 Lakes Rally, making it a very diverse category."}
+{"dataset": "WNUT17", "type": "corporation", "proxy_type": "corporation", "definition": "Names of corporations (e.g. Google). Don’t mark locations that don’t have their own name. Include punctuation in the middle of names."}
+{"dataset": "WNUT17", "type": "creative-work", "proxy_type": "creative work", "definition": "Names of creative works (e.g. Bohemian Rhapsody). Include punctuation in the middle of names. The work should be created by a human, and referred to by its specific name."}
+{"dataset": "WNUT17", "type": "group", "proxy_type": "group", "definition": "Names of groups (e.g. Nirvana, San Diego Padres). Don’t mark groups that don’t have a specific, unique name, or companies (which should be marked corporation)."}
+{"dataset": "WNUT17", "type": "location", "proxy_type": "location", "definition": "Names that are locations (e.g. France). Don’t mark locations that don’t have their own name. Include punctuation in the middle of names. Fictional locations can be included, as long as they’re referred to by name (e.g. Hogwarts)."}
+{"dataset": "WNUT17", "type": "person", "proxy_type": "person", "definition": "Names of people (e.g. Virginia Wade). Don’t mark people that don’t have their own name. Include punctuation in the middle of names. Fictional people can be included, as long as they’re referred to by name (e.g. Harry Potter)."}
+{"dataset": "WNUT17", "type": "product", "proxy_type": "product", "definition": "Name of products (e.g. iPhone). Don’t mark products that don’t have their own name. Include punctuation in the middle of names. Fictional products can be included, as long as they’re referred to by name (e.g. Everlasting Gobstopper). It’s got to be something you can touch, and it’s got to be the official name."}
+{"dataset": "I2B2", "type": "AGE", "proxy_type": "age", "definition": ""}
+{"dataset": "I2B2", "type": "BIOID", "proxy_type": "biometric ID", "definition": ""}
+{"dataset": "I2B2", "type": "CITY", "proxy_type": "city", "definition": ""}
+{"dataset": "I2B2", "type": "COUNTRY", "proxy_type": "country", "definition": ""}
+{"dataset": "I2B2", "type": "DATE", "proxy_type": "date", "definition": ""}
+{"dataset": "I2B2", "type": "DEVICE", "proxy_type": "device", "definition": ""}
+{"dataset": "I2B2", "type": "DOCTOR", "proxy_type": "doctor", "definition": ""}
+{"dataset": "I2B2", "type": "EMAIL", "proxy_type": "email", "definition": ""}
+{"dataset": "I2B2", "type": "FAX", "proxy_type": "fax", "definition": ""}
+{"dataset": "I2B2", "type": "HEALTHPLAN", "proxy_type": "health plan number", "definition": ""}
+{"dataset": "I2B2", "type": "HOSPITAL", "proxy_type": "hospital", "definition": ""}
+{"dataset": "I2B2", "type": "IDNUM", "proxy_type": "ID number", "definition": ""}
+{"dataset": "I2B2", "type": "LOCATION_OTHER", "proxy_type": "location", "definition": ""}
+{"dataset": "I2B2", "type": "MEDICALRECORD", "proxy_type": "medical record", "definition": ""}
+{"dataset": "I2B2", "type": "ORGANIZATION", "proxy_type": "organization", "definition": ""}
+{"dataset": "I2B2", "type": "PATIENT", "proxy_type": "patient", "definition": ""}
+{"dataset": "I2B2", "type": "PHONE", "proxy_type": "phone number", "definition": ""}
+{"dataset": "I2B2", "type": "PROFESSION", "proxy_type": "profession", "definition": ""}
+{"dataset": "I2B2", "type": "STATE", "proxy_type": "state", "definition": ""}
+{"dataset": "I2B2", "type": "STREET", "proxy_type": "street", "definition": ""}
+{"dataset": "I2B2", "type": "URL", "proxy_type": "url", "definition": ""}
+{"dataset": "I2B2", "type": "USERNAME", "proxy_type": "username", "definition": ""}
+{"dataset": "I2B2", "type": "ZIP", "proxy_type": "zip code", "definition": ""}
+{"dataset": "all","type": "none", "definition": "refers an entity that does not belong to the above types, or is not an entity."}
